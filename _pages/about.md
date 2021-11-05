@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-
 Guido Gagliardi is a P.h.D student in the the International Ph.D. Program in Smart Computing (University of Pisa, Florence and Siena), and member of the “Machine Learning and Process Intelligence” research group, Department of Information Engineering (University of Pisa). 
 
 He received the Master's Degree cum laude in Artificial intelligence and data Engineering from the University of Pisa, presenting a thesis on multimodal and explainable affective computing methods. 
