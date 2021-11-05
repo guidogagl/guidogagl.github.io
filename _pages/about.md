@@ -18,5 +18,7 @@ Contact
 ===
 
 > email: g.gagliardi5@studenti.unipi.it
+>
 > tel:   +39 050 221 7454
+>
 > Department of Information Engineering, University of Pisa, Pisa (Italy), Largo Lucio Lazzarino 1, 56122 5th floor, Room 113
