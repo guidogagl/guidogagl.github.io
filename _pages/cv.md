@@ -7,4 +7,4 @@ redirect_from:
   - /cv.html
 ---
 
-<object data="../../files/CV.pdf" width="100%" height="1000" type='application/pdf'/>
+<object data="../../files/CV.pdf" width="1000" height="1000" type='application/pdf'/>
