@@ -1,5 +1,4 @@
 ---
-permalink: /cv/
 title: "CV"
 excerpt: "CV"
 author_profile: true
