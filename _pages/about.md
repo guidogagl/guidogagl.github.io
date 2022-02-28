@@ -12,13 +12,13 @@ Guido Gagliardi is a P.h.D student in the International Ph.D. Program in Smart C
 
 He received the Master's Degree cum Laude in Artificial Intelligence and Data Engineering from the University of Pisa, presenting a thesis on multimodal and explainable affective computing methods. 
 
-Nowadays his research topics mainly focus on affective computing tasks, such as emotions classification or sleep stages detection, via physiological signal analysis with artificial intelligence and machine learning methods.
+Nowadays his research topics mainly focus on the employment of explainable artificial intelligence architectures to effectively analyze human brain signals and create medical decision making support tools, such as emotions recognition tasks or sleep stages detection.
 
 Contact
 ===
 
-> email: g.gagliardi5@studenti.unipi.it
+> email: guido.gagliardi@phd.unipi.it
 >
-> tel:   +39 050 221 7454
+> tel:   +39 050 221 7452
 >
 > Department of Information Engineering, University of Pisa, Pisa (Italy), Largo Lucio Lazzarino 1, 56122 5th floor, Room 113
