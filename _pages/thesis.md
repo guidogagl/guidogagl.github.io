@@ -6,11 +6,11 @@ redirect_from:
   - /thesis/
   - /thesis.html
 ---
-There are open positions for both Master and Bachelor students.
+There are open positions for both Master's and Bachelor's students.
 
 Available Topics
 ===
-- Explainable Deep Learning Architectures modeling for physiological and behavioral data analysis (i.e EEG, ECG) in medical scenarios. 
+- Explainable Deep Learning Architectures modelling for physiological and behavioural data analysis (i.e EEG, ECG) in medical scenarios. 
 
 Master Degree
 ===
