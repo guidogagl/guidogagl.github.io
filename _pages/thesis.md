@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Advised Thesis"
 excerpt: "Advised Thesis"
 author_profile: true
