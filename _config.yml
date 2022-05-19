@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guido Gagliardi"
 title_separator          : "-"
 name                     : &name "Guido Gagliardi"
-description              : &description "P.h.D. student at University of Pisa"
+description              : &description "joint PhD student at University of Pisa (Italy) and KU Leuven (Belgium)"
 url                      : https://guidogagl.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "guidogagl/guidogagl.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Guido Gagliardi"
   avatar           : "avatar_guido.png"
   bio              : "he - his. 
-  P.h.D. student at University of Pisa in Smart Computing, graduated in M.D. Artificial Intelligence and Data Engineering"
-  location         : "Pisa, Italy"
+  Joint PhD student of the Smart Computing course of the University of Florence, Pisa, Siena (Italy) and the PhD course of KU Leuven (Belgium), graduated in the M.D. in Artificial Intelligence and Data Engineering"
+  location         : "Leuven, Belgium - Pisa, Italy"
   employer         :
   pubmed           : 
   googlescholar    : 
