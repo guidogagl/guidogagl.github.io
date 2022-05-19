@@ -4,13 +4,13 @@ title: "Advised Thesis"
 excerpt: "Advised Thesis"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /thesis/
+  - /thesis.html
 ---
-Available Topics
-===
 There are open positions for both Master and Bachelor students.
 
+Available Topics
+===
 - Explainable Deep Learning Architectures modeling for physiological and behavioral data analysis (i.e EEG, ECG) in medical scenarios. 
 
 Master Degree
