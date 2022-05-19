@@ -14,7 +14,7 @@ His research is mainly focused on employing explainable artificial intelligence 
 
 He is also a member of the “Machine Learning and Process Intelligence” research group, Department of Information Engineering (University of Pisa) and the STADIUS group at the Department of Electrical Engineering (ESAT) ( KU Leuven ). 
 
-He received the Master's Degree cum Laude in Artificial Intelligence and Data Engineering from the University of Pisa, presenting a thesis on multimodal and explainable affective computing methods. 
+He received the Master's Degree cum Laude in Artificial Intelligence and Data Engineering from the University of Pisa, presenting a thesis on multimodal and explainable affective computing methods.
 
 Contact
 ===
@@ -30,6 +30,6 @@ Contact
 >
 > Address - University of Pisa
 > - Largo Lucio Lazzarino 1 - 56122 Pisa (Italy)
-> - Department of Information Engineering 
+> - Department of Information Engineering
 > - Office: Building A, Floor 2, Room 113
-> - Phone: +39 0502217452
+> - Phone: +39 050 22 17 452
