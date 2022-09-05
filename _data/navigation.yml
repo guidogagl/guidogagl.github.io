@@ -2,9 +2,12 @@
 main:
    - title: "About me"
      url: /about/
- 
-   - title: "CV"
-     url: /cv/
+   
+   - title: "Publications"
+     url: /publications/
 
    - title: "Advised Thesis"
      url: /thesis/  
+
+   - title: "CV"
+     url: /cv/
