@@ -15,4 +15,4 @@ Available Topics
 Master Degree
 ===
 - N. Mota, Development of explainable machine learning architectures for affective computing (thesis in progress, temporary title), MS in Computer Engineering, a.y. 2021-22.
-- F. Ritorti, Emotion detection via Explainable Affective Computing for physiological signals (thesis in progress, temporary title), MS in Artificial Intelligence and Data Engineering, a.y. 2021-22.
+- F. Ritorti, Design and testing of a loss function for distance-based representation learning to recognize emotions via EEG data (thesis in progress, temporary title), MS in Artificial Intelligence and Data Engineering, a.y. 2021-22.
