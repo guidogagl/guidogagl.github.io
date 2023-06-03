@@ -18,18 +18,19 @@ He received the Master's Degree cum Laude in Artificial Intelligence and Data En
 
 Contact
 ===
+```
+Email: 
+  guido.gagliardi@phd.unipi.it
+  guido.gagliardi@kuleuven.be
 
-> Email: 
-> - guido.gagliardi@phd.unipi.it
-> - guido.gagliardi@esat.kuleuven.be
-> 
-> Address - KU Leuven (active)
-> - Kasteelpark Arenberg 10 postbus 2440 3001 Leuven (Belgium) 
-> - Department of Electrical Engineering (ESAT)
-> - Office: ESAT, room B00.34
->
-> Address - University of Pisa
-> - Largo Lucio Lazzarino 1 - 56122 Pisa (Italy)
-> - Department of Information Engineering
-> - Office: Building A, Floor 2, Room 113
-> - Phone: +39 050 22 17 452
+Address - KU Leuven (active)
+  Kasteelpark Arenberg 10 postbus 2440 3001 Leuven (Belgium) 
+  Department of Electrical Engineering (ESAT)
+  Office: ESAT, room B00.23
+
+Address - University of Pisa
+  Largo Lucio Lazzarino 1 - 56122 Pisa (Italy)
+  Department of Information Engineering
+  Office: Building A, Floor 2, Room 113
+  Phone: +39 050 22 17 452
+```
