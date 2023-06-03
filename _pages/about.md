@@ -12,6 +12,9 @@ Guido Gagliardi is a PhD student pursuing a double degree in International PhD. 
 
 His research is focused on new explainable artificial intelligence techniques for the analysis of physiological signals to support the decision-making process in clinical scenarios. His idea is that the use of artificial intelligence approaches such as neural networks represents a great opportunity to deepen human knowledge about the functioning of the brain and, hence, improve human’s overall quality of life.
 
+He received the Master's Degree cum Laude in Artificial Intelligence and Data Engineering from the University of Pisa, presenting a thesis on multimodal and explainable affective computing methods.
+
+I also designed and developed [VIBE](https://vibexplainable.streamlit.app/) - Visualization and Interpretation of emotional Brain signal through Explainable networks. 
 
 Contact
 ===
