@@ -21,3 +21,7 @@ Master Degree
 - M. Martorana, A Novel Feature Importance Measure To Explain The Quality Level Prediction In - Smart Manufacturing, MS in Artificial Intelligence and Data Engineering, University of Pisa, a.y. 2021-22.
 - N. Mota, "Concept-wise architecture with topology learning for explainable emotion classification" MS in Computer Engineering, a.y. 2021-22.
 - F. Ritorti, Design and testing of a loss function for distance-based representation learning to recognize emotions via EEG data, MS in Artificial Intelligence and Data Engineering, a.y. 2021-22.
+
+Teaching
+===
+- A.A. 2022-2023, Lab. Sessions Course: Biomedical Signal Processing, ESAT, KU Leuven
