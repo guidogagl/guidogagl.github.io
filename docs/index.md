@@ -8,9 +8,9 @@ I designed and developed [VIBE](https://vibexplainable.streamlit.app/) - Visuali
 
 I'm also the developer of:
 
-- :fontawesome-branch-git-alt: [phyisioex](https://github.com/physioex/)
-- :fontawesome-branch-git-alt: [bocsor](https://github.com/bocsor/)
-- :fontawesome-branch-git-alt: Brain Signal Spatial Arrangement ([bsignalspatialar](https://github.com/bsignalspatialar/))
+- :fontawesome-brands-git-alt: [phyisioex](https://github.com/physioex/)
+- :fontawesome-brands-git-alt: [bocsor](https://github.com/bocsor/)
+- :fontawesome-brands-git-alt: Brain Signal Spatial Arrangement ([bsignalspatialar](https://github.com/bsignalspatialar/))
 
 ## Contact
 
