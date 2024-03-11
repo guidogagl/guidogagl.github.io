@@ -20,7 +20,7 @@ jobs:
           path: .cache
       - run: pip install mkdocs
       - run: pip install mkdocs-material
-      - run: pip install mkdocs-material-extensions
+      - run: pip install mkdocs-macros-plugin
       - run: pip install pymdown-extensions
       - run: pip install pillow cairosvg
       - run: mkdocs gh-deploy --force
