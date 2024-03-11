@@ -33,12 +33,14 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
+      link: https://github.com/guidogagl
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
-
+      link: https://www.linkedin.com/in/guido-gagliardi-5764b6121/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0003-2020-6439
+    - icon: fontawesome/brands/google-scholar
+      link: https://scholar.google.com/citations?view_op=list_works&hl=it&user=8EczeSIAAAAJ
+    
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
