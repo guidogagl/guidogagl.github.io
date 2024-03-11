@@ -38,7 +38,8 @@ theme:
 plugins:
   - search
   - social
-
+  - macros
+  
 repo_name: guidogagl
 repo_url: https://github.com/guidogagl
 
