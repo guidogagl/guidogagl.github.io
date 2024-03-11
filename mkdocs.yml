@@ -7,10 +7,9 @@ nav:
   - Advised Thesis: thesis.md
   - CV: cv.md
 theme:
+  name: material
   icon: 
     logo: fontawesome/solid/terminal
-
-  name: material
   features:
     - navigation.path
     - navigation.top
