@@ -1,20 +1,11 @@
-# Curriculum Vitae
+<!--- file: docs/howto/embedding_pdf.md --->
+{% with pdf_file = "assets/CV.pdf" %}
 
-<div>
-  <object
-    data='assets/files/CV.pdf#view=FitV'
-    type="application/pdf"
-    width="100%"
-    height="100%"
-  >
+{% set solid_filepdf = '<i class="fas fa-file-pdf"></i>' %}
+{% set empty_filepdf = '<i class="far fa-file-pdf"></i>' %}
 
-    <iframe
-      src='../../files/CV.pdf#view=FitV'
-      width="100%"
-      height="100%"
-    >
-    <p>This browser does not support PDF!</p>
-    </iframe>
+## Curriculum Vitae
 
-  </object>
-</div>
+<object data="{{ pdf_file }}" type="application/pdf">
+    <embed src="{{ pdf_file }}" type="application/pdf" />
+</object>

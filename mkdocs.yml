@@ -70,6 +70,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.pathconverter:
+      base_path: 'guidogagl.github.io'
+      relative_path: '' 
+      absolute: true 
+      tags: 'a script img link object embed'
 
 copyright: |
   &copy; 2023 <a href="https://github.com/guidogagl"  target="_blank" rel="noopener">Guido Gagliardi</a>
