@@ -5,7 +5,7 @@
 {% set empty_filepdf = '<i class="far fa-file-pdf"></i>' %}
 
 ## Curriculum Vitae
-here is the pdf
+update
 <object data="{{ pdf_file }}" type="application/pdf">
     <embed src="{{ pdf_file }}" type="application/pdf" />
 </object>
