@@ -40,7 +40,8 @@ extra:
       link: https://orcid.org/0000-0003-2020-6439
     - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com/citations?view_op=list_works&hl=it&user=8EczeSIAAAAJ
-    
+  footer:
+    - image: images/avatar.png
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
