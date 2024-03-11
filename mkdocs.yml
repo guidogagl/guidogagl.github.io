@@ -1,11 +1,14 @@
 site_name: Guido Gagliardi
-
+site_url: https://guidogagl.github.io/physioex/
+nav:
+  - Home: index.md
+  - Research: publications.md
+  - Advised Thesis: thesis.md
+  - CV: cv.md
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
+    - navigation.path
     - navigation.top
     - search.suggest
     - search.highlight
@@ -28,7 +31,11 @@ theme:
       accent: lime
 
 plugins:
+  - search
   - social
+
+repo_name: guidogagl
+repo_url: https://github.com/guidogagl
 
 extra:
   social:
@@ -41,7 +48,7 @@ extra:
     - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com/citations?view_op=list_works&hl=it&user=8EczeSIAAAAJ
   footer:
-    - image: images/avatar.png
+    - image: assets/images/avatar.png
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
