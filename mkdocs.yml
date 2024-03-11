@@ -8,6 +8,7 @@ nav:
   - CV: cv.md
 theme:
   name: material
+  favicon: fontawesome/solid/terminal
   icon: 
     logo: fontawesome/solid/terminal
   features:
