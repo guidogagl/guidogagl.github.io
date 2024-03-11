@@ -1,6 +1,5 @@
 site_name: Guido Gagliardi
 site_url: https://guidogagl.github.io/physioex/
-icon: fontawesome/solid/terminal
 
 nav:
   - Home: index.md
@@ -8,6 +7,9 @@ nav:
   - Advised Thesis: thesis.md
   - CV: cv.md
 theme:
+  icon: 
+    logo: fontawesome/solid/terminal
+
   name: material
   features:
     - navigation.path
