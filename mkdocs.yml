@@ -13,6 +13,8 @@ theme:
     logo: fontawesome/solid/terminal
   features:
     - navigation.tabs
+    - navigation.path
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
