@@ -7,8 +7,9 @@ He received the Master's Degree cum Laude in Artificial Intelligence and Data En
 I designed and developed [VIBE](https://vibexplainable.streamlit.app/) - Visualization and Interpretation of emotional Brain signal through Explainable networks. 
 
 I'm also the developer of:
+
 - :fontawesome/branch/git-alt: [phyisioex](https://github.com/physioex/)
-- :fontawesome/branch/bocsor: [bocsor](https://github.com/bocsor/)
+- :fontawesome/branch/git-alt: [bocsor](https://github.com/bocsor/)
 - :fontawesome/branch/git-alt: Brain Signal Spatial Arrangement ([bsignalspatialar](https://github.com/bsignalspatialar/))
 
 ## Contact
