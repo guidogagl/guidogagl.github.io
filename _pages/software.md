@@ -38,8 +38,8 @@ Models distributed through PhysioEx were used as **external-validation baselines
 
 Reading the prototypes *is* reading the decision: the model classifies a sleep epoch by matching it
 against learned micro-structural patterns, and those patterns are the explanation. Trained and
-evaluated across **11 polysomnography datasets and 12,317 subjects**. MIT licensed, built on
-PhysioEx, with weights published on Hugging Face.
+evaluated across **11 polysomnography datasets and 12,317 subjects**. MIT licensed and built on
+PhysioEx; the pretrained weights are released on Hugging Face together with the paper.
 
 The demo below is the fastest way to see what the model is doing — pick an epoch, see its nearest
 prototype, and see the time–frequency evidence behind the match.
@@ -47,7 +47,6 @@ prototype, and see the time–frequency evidence behind the match.
 [**Live demo**](https://protosleepnet-demo.pages.dev) ·
 [Docs](https://guidogagl.github.io/protosleepnet) ·
 [GitHub](https://github.com/guidogagl/protosleepnet) ·
-[Weights](https://huggingface.co/4rooms/sleep-prototypes) ·
 [Preprint](https://doi.org/10.21203/rs.3.rs-9169987/v1)
 
 ---
