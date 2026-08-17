@@ -31,3 +31,12 @@ Full record also on [Google Scholar](https://scholar.google.com/citations?user=c
 {% bibliography --query @misc %}
 
 </div>
+
+---
+
+<small>
+**About the PDFs.** Where a **PDF** button appears, the paper is open access. Copies hosted here are
+either published under a Creative Commons licence or are author accepted manuscripts deposited in an
+institutional repository; the remaining buttons link to the publisher's or arXiv's own open-access
+copy. Two conference papers are not open access and therefore have no PDF button — use the DOI.
+</small>
