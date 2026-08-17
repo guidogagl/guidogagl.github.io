@@ -38,6 +38,6 @@ Full record also on [Google Scholar](https://scholar.google.com/citations?user=c
 **About the PDFs.** Copies hosted here are either published under a Creative Commons licence, or
 author manuscripts already made public through an institutional repository (KU Leuven Lirias,
 University of Pisa ARPI) or my co-authors' group pages. The remaining **PDF** buttons link to the
-publisher's, arXiv's or SciTePress's own open-access copy. One journal article and the two congress
-abstracts have no openly available version — for those, use the DOI.
+publisher's, arXiv's or SciTePress's own open-access copy. Only the two congress abstracts have no
+openly available version — for those, use the DOI.
 </small>
