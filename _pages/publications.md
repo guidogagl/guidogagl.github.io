@@ -35,8 +35,9 @@ Full record also on [Google Scholar](https://scholar.google.com/citations?user=c
 ---
 
 <small>
-**About the PDFs.** Where a **PDF** button appears, the paper is open access. Copies hosted here are
-either published under a Creative Commons licence or are author accepted manuscripts deposited in an
-institutional repository; the remaining buttons link to the publisher's or arXiv's own open-access
-copy. Two conference papers are not open access and therefore have no PDF button — use the DOI.
+**About the PDFs.** Copies hosted here are either published under a Creative Commons licence, or
+author manuscripts already made public through an institutional repository (KU Leuven Lirias,
+University of Pisa ARPI) or my co-authors' group pages. The remaining **PDF** buttons link to the
+publisher's, arXiv's or SciTePress's own open-access copy. One journal article and the two congress
+abstracts have no openly available version — for those, use the DOI.
 </small>
