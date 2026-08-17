@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-**ProtoSleepNet** preprint is
-[online](https://doi.org/10.21203/rs.3.rs-9169987/v1) and under review at *npj Digital Medicine* —
-with a [live explainability demo](https://protosleepnet-demo.pages.dev).
+**ProtoSleepNet** is [under review](/publications/) at *npj Digital Medicine* — the revised
+manuscript is on the [publications page](/publications/), and there is a
+[live explainability demo](https://protosleepnet-demo.pages.dev).
