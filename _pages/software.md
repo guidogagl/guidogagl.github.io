@@ -63,22 +63,22 @@ frequency domain with path-integrated gradients, and is benchmarked against nine
 configurations across synthetic, audio, arrhythmia and sleep data. Manuscript in preparation with
 Prof. W. Samek (Fraunhofer HHI).
 
-[GitHub](https://github.com/guidogagl/spectralgradients)
+*Code to be released with the paper.*
 
 ---
 
-## Also maintained
+## Also in development
 
-**[EEGBenchmarks](https://github.com/guidogagl/EEGBenchmarks)** — an extension-oriented benchmark
-harness for EEG: datasets, wrappers for foundation and supervised models, downstream evaluation
-tasks, and preprocessing and reporting workflows.
+Not yet public — these are released as the corresponding papers appear.
 
-**[agentic-aasm-staging](https://github.com/guidogagl/agentic-aasm-staging)** — neuro-symbolic
-explainable sleep staging: retrieval over the AASM manual selects the rule, a deterministic engine
-decides the stage, and a local language model writes the justification. A demonstrator for
-auditable clinical reasoning, not a state-of-the-art classifier.
+**EEGBenchmarks** — an extension-oriented benchmark harness for EEG: datasets, wrappers for
+foundation and supervised models, downstream evaluation tasks, and preprocessing and reporting
+workflows.
 
-**[eeg-signal2text-survey](https://github.com/guidogagl/eeg-signal2text-survey)** — a survey and
-empirical probe of signal-to-text models applied to single EEG epochs, across four adaptation
-strategies. The finding is negative and worth stating: no open-weight model is credibly zero-shot
-on EEG.
+**agentic-aasm-staging** — neuro-symbolic explainable sleep staging: retrieval over the AASM manual
+selects the rule, a deterministic engine decides the stage, and a local language model writes the
+justification. A demonstrator for auditable clinical reasoning, not a state-of-the-art classifier.
+
+**eeg-signal2text-survey** — a survey and empirical probe of signal-to-text models applied to single
+EEG epochs, across four adaptation strategies. The finding is negative and worth stating: no
+open-weight model is credibly zero-shot on EEG.
