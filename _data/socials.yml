@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: guido.gagliardi@kuleuven.be
+scholar_userid: cHr99doAAAAJ # Google Scholar
+orcid_id: 0000-0003-2020-6439
+github_username: guidogagl
+cv_pdf: /assets/pdf/cv.pdf
+# linkedin_username: # TODO: Guido to supply — a profile exists but the URL is not recorded anywhere
+rss_icon: false
