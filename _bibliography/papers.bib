@@ -1,115 +1,263 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+%% Publications of Guido Gagliardi.
+%%
+%% SOURCE OF TRUTH: copied from CV/INRIA-CPJ-LILLE-2026/dossier/publications.bib
+%% where every entry was checked against the publisher record during the Inria
+%% CPJ application. 17 of 18 were verified at source; only the ESRS 2024
+%% abstract is in no public index. Titles, authors, venues, pages and DOIs are
+%% VERBATIM from that file and must not be retyped. Only al-folio display
+%% fields such as abbr, selected, preview, code and website are added here.
+%%
+%% Entry types drive the sections on the publications page:
+%%   unpublished    Preprints and Under Review
+%%   article        Journal Articles
+%%   inproceedings  Peer-Reviewed Conference Papers
+%%   misc           Conference Abstracts. Congress abstracts published in
+%%                  supplements, retyped from inproceedings so that they are
+%%                  not displayed alongside full peer-reviewed papers.
+%%   phdthesis      excluded from the page; belongs to Education.
 
-@book{einstein1920relativity,
-  title     = {Relativity: the Special and General Theory},
-  author    = {Einstein, Albert},
-  year      = {1920},
-  publisher = {Methuen & Co Ltd},
-  html      = {relativity.html}
-}
+% ============================================================
+% PREPRINTS / UNDER REVIEW
+% ============================================================
 
-@book{einstein1956investigations,
+@unpublished{gagliardi2026prototype,
+  author    = {Gagliardi, Guido and Garcia Ciudad, Javier and Micca, Letizia and Kornum, Birgitte Rahbek and Gilat, Moran and Alfeo, Antonio Luca and Cimino, Mario G. C. A. and De~Vos, Maarten},
+  title     = {Prototype-based sleep micro-structure learning for explainable and robust multimodal recognition of sleep-related conditions},
+  note      = {Under review at npj Digital Medicine. Research Square preprint, posted 1 April 2026},
+  doi       = {10.21203/rs.3.rs-9169987/v1},
+  url       = {https://doi.org/10.21203/rs.3.rs-9169987/v1},
+  year      = {2026},
+  abbr      = {Preprint},
+  selected  = {true},
+  preview   = {protosleepnet.jpg},
+  code      = {https://github.com/guidogagl/protosleepnet},
+  website   = {https://protosleepnet-demo.pages.dev},
   bibtex_show = {true},
-  title       = {Investigations on the Theory of the Brownian Movement},
-  author      = {Einstein, Albert},
-  year        = {1956},
-  publisher   = {Courier Corporation},
-  preview     = {brownian-motion.gif}
 }
 
-@article{einstein1950meaning,
-  abbr        = {AJP},
+@unpublished{kontras2026neuroatlas,
+  author    = {Kontras, Konstantinos and Osselaer, Trui and Mouslech, Stylianos G. and Karaiskou, Angeliki-Ilektra and Gagliardi, Guido and Strypsteen, Thomas and Badiei, Mohammad Hossein and Rani, Anku and Vanmarcke, Maarten and Bhagubai, Miguel and Ekbote, Chanakya and Hwang, Jaedong and Chatzichristos, Christos and Liang, Paul Pu and De~Vos, Maarten},
+  title     = {{NeuroAtlas}: Benchmarking Foundation Models for Clinical {EEG} and Brain--Computer Interfaces},
+  note      = {Under review at NeurIPS 2026. arXiv:2605.14698},
+  url       = {https://arxiv.org/abs/2605.14698},
+  year      = {2026},
+  abbr      = {Preprint},
+  arxiv     = {2605.14698},
   bibtex_show = {true},
-  title       = {The meaning of relativity},
-  author      = {Einstein, Albert and Taub, AH},
-  journal     = {American Journal of Physics},
-  volume      = {18},
-  number      = {6},
-  pages       = {403--404},
-  year        = {1950},
-  publisher   = {American Association of Physics Teachers}
 }
 
-@article{PhysRev.47.777,
-  abbr              = {PhysRev},
-  title             = {Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author            = {Einstein*†, A. and Podolsky*, B. and Rosen*, N.},
-  abstract          = {In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal           = {Phys. Rev.},
-  location          = {New Jersey},
-  volume            = {47},
-  issue             = {10},
-  pages             = {777--780},
-  numpages          = {0},
-  year              = {1935},
-  month             = {May},
-  publisher         = aps,
-  doi               = {10.1103/PhysRev.47.777},
-  url               = {https://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html              = {https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf               = {example_pdf.pdf},
-  altmetric         = {248277},
-  dimensions        = {true},
-  google_scholar_id = {qyhmnyLat1gC},
-  video             = {https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ},
-  additional_info   = {. *More Information* can be [found here](https://github.com/alshedivat/al-folio/)},
-  annotation        = {* Example use of superscripts<br>† Albert Einstein},
-  selected          = {true},
-  inspirehep_id     = {3255}
-}
+% ============================================================
+% JOURNAL ARTICLES
+% ============================================================
 
-@article{einstein1905molekularkinetischen,
-  title     = {{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author    = {Einstein, A.},
-  journal   = {Annalen der physik},
-  volume    = {322},
-  number    = {8},
-  pages     = {549--560},
-  year      = {1905},
-  publisher = {Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr    = {Ann. Phys.},
-  title   = {Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author  = {Einstein, A.},
-  journal = {Ann. Phys.},
-  volume  = {17},
-  pages   = {549--560},
-  year    = {1905}
-}
-
-@article{einstein1905electrodynamics,
-  title  = {On the electrodynamics of moving bodies},
-  author = {Einstein, A.},
-  year   = {1905}
-}
-
-@article{einstein1905photoelectriceffect,
+@article{zvuloni2026multisource,
+  author    = {Zvuloni, Eran and Gagliardi, Guido and Ribeiro, Ant\^onio H. and Ribeiro, Ant\^onio Luiz P. and De~Vos, Maarten and Behar, Joachim A.},
+  title     = {A multi-source domain fine-tuning framework for deep generalization performance in physiological time series analysis},
+  journal   = {Machine Learning: Health},
+  volume    = {2},
+  number    = {1},
+  pages     = {015002},
+  year      = {2026},
+  doi       = {10.1088/3049-477X/ae2ac5},
+  abbr      = {ML: Health},
   bibtex_show = {true},
-  abbr        = {Ann. Phys.},
-  title       = {{{\"U}ber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt}},
-  author      = {Albert Einstein},
-  abstract    = {This is the abstract text.},
-  journal     = {Ann. Phys.},
-  volume      = {322},
-  number      = {6},
-  pages       = {132--148},
-  year        = {1905},
-  doi         = {10.1002/andp.19053220607},
-  award       = {Albert Einstein receveid the **Nobel Prize in Physics** 1921 *for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect*},
-  award_name  = {Nobel Prize}
 }
 
-@book{przibram1967letters,
+@article{gagliardi2025model,
+  author    = {Gagliardi, Guido and Alfeo, Antonio Luca and Catrambone, Vincenzo and Cimino, Mario G. C. A. and De~Vos, Maarten and Valenza, Gaetano},
+  title     = {Model-driven validation of visual explanations for multimodal emotion recognition},
+  journal   = {Machine Learning},
+  volume    = {114},
+  number    = {12},
+  pages     = {273},
+  year      = {2025},
+  doi       = {10.1007/s10994-025-06921-y},
+  note      = {(*) Selected as one of the three most important publications.},
+  abbr      = {Mach. Learn.},
+  selected  = {true},
   bibtex_show = {true},
-  title       = {Letters on wave mechanics},
-  author      = {Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year        = {1967},
-  publisher   = {Vision},
-  preview     = {wave-mechanics.gif},
-  abbr        = {Vision}
+}
+
+@article{gagliardi2025region,
+  author    = {Gagliardi, Guido and Alfeo, Antonio Luca and Guidotti, Riccardo and Cimino, Mario G. C. A.},
+  title     = {Region-aware Minimal Counterfactual Rules for Model-agnostic Explainable Classification},
+  journal   = {Machine Learning},
+  volume    = {114},
+  number    = {10},
+  pages     = {225},
+  year      = {2025},
+  doi       = {10.1007/s10994-025-06847-5},
+  abbr      = {Mach. Learn.},
+  bibtex_show = {true},
+}
+
+@article{gagliardi2025physioex,
+  author    = {Gagliardi, Guido and Alfeo, Antonio Luca and Cimino, Mario G. C. A. and Valenza, Gaetano and De~Vos, Maarten},
+  title     = {{PhysioEx}: a new {Python} library for explainable sleep staging through deep learning},
+  journal   = {Physiological Measurement},
+  volume    = {46},
+  number    = {2},
+  pages     = {025006},
+  year      = {2025},
+  doi       = {10.1088/1361-6579/adaf73},
+  abbr      = {Physiol. Meas.},
+  selected  = {true},
+  preview   = {physioex.jpg},
+  code      = {https://github.com/guidogagl/physioex},
+  website   = {https://guidogagl.github.io/physioex/},
+  bibtex_show = {true},
+}
+
+@article{alfeo2024recognizing,
+  author    = {Alfeo, Antonio Luca and Cimino, Mario G. C. A. and Gagliardi, Guido},
+  title     = {Recognizing bearings' degradation stage using multimodal autoencoder to learn features from different time series},
+  journal   = {SN Computer Science},
+  volume    = {5},
+  number    = {4},
+  pages     = {371},
+  year      = {2024},
+  doi       = {10.1007/s42979-024-02635-5},
+  abbr      = {SN Comput. Sci.},
+  bibtex_show = {true},
+}
+
+@article{alfeo2023concept,
+  author    = {Alfeo, Antonio Luca and Cimino, Mario G. C. A. and Gagliardi, Guido},
+  title     = {Concept-wise granular computing for explainable artificial intelligence},
+  journal   = {Granular Computing},
+  volume    = {8},
+  number    = {4},
+  pages     = {827--838},
+  year      = {2023},
+  doi       = {10.1007/s41066-022-00357-8},
+  note      = {(*) Selected as one of the three most important publications.},
+  abbr      = {Granul. Comput.},
+  selected  = {true},
+  bibtex_show = {true},
+}
+
+@article{gagliardi2023improving,
+  author    = {Gagliardi, Guido and Alfeo, Antonio Luca and Catrambone, Vincenzo and Candia-Rivera, Diego and Cimino, Mario G. C. A. and Valenza, Gaetano},
+  title     = {Improving emotion recognition systems by exploiting the spatial information of {EEG} sensors},
+  journal   = {IEEE Access},
+  volume    = {11},
+  pages     = {39544--39554},
+  year      = {2023},
+  doi       = {10.1109/ACCESS.2023.3268233},
+  note      = {(*) Selected as one of the three most important publications.},
+  abbr      = {IEEE Access},
+  bibtex_show = {true},
+}
+
+% ============================================================
+% PEER-REVIEWED CONFERENCE PAPERS
+% ============================================================
+
+@inproceedings{gagliardi2025building,
+  author    = {Gagliardi, Guido and Alfeo, Antonio Luca and Cimino, Mario G. C. A. and Valenza, Gaetano and De~Vos, Maarten},
+  title     = {Building neural networks' latent space to extract instance-based explanations for sleep staging},
+  booktitle = {IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  pages     = {3096--3101},
+  year      = {2025},
+  doi       = {10.1109/SMC58881.2025.11342484},
+  abbr      = {IEEE SMC},
+  bibtex_show = {true},
+}
+
+@inproceedings{alfeo2023matching,
+  author    = {Alfeo, Antonio Luca and Cimino, Mario G. C. A. and Gagliardi, Guido},
+  title     = {Matching the expert's knowledge via a counterfactual-based feature importance measure},
+  booktitle = {Machine Learning and Principles and Practice of Knowledge Discovery in Databases --- International Workshops of ECML PKDD 2023, Turin, Italy, Revised Selected Papers, Part III},
+  series    = {Communications in Computer and Information Science},
+  volume    = {2135},
+  pages     = {71--86},
+  publisher = {Springer},
+  year      = {2025},
+  doi       = {10.1007/978-3-031-74633-8_5},
+  note      = {Workshop paper (post-proceedings), not the ECML PKDD main research track.},
+  abbr      = {ECML PKDD-W},
+  bibtex_show = {true},
+}
+
+@inproceedings{gagliardi2023contrastive,
+  author    = {Gagliardi, Guido and Alfeo, Antonio Luca and Catrambone, Vincenzo and Cimino, Mario G. C. A. and De~Vos, Maarten and Valenza, Gaetano},
+  title     = {Using contrastive learning to inject domain-knowledge into neural networks for recognizing emotions},
+  booktitle = {IEEE Symposium Series on Computational Intelligence (SSCI)},
+  pages     = {1587--1592},
+  year      = {2023},
+  doi       = {10.1109/SSCI52147.2023.10371895},
+  abbr      = {IEEE SSCI},
+  bibtex_show = {true},
+}
+
+@inproceedings{gagliardi2023finegrained,
+  author    = {Gagliardi, Guido and Alfeo, Antonio Luca and Catrambone, Vincenzo and Cimino, Mario G. C. A. and De~Vos, Maarten and Valenza, Gaetano},
+  title     = {Fine-grained emotion recognition using brain--heart interplay measurements and explainable convolutional neural networks},
+  booktitle = {11th International IEEE/EMBS Conference on Neural Engineering (NER)},
+  pages     = {1--6},
+  year      = {2023},
+  doi       = {10.1109/NER52421.2023.10123758},
+  abbr      = {IEEE NER},
+  bibtex_show = {true},
+}
+
+@inproceedings{alfeo2022automatic,
+  author    = {Alfeo, Antonio Luca and Cimino, Mario G. C. A. and Gagliardi, Guido},
+  title     = {Automatic Feature Extraction for Bearings' Degradation Assessment using Minimally Pre-processed Time Series and Multi-modal Feature Learning},
+  booktitle = {Proceedings of the 3rd International Conference on Innovative Intelligent Industrial Production and Logistics (IN4PL)},
+  pages     = {94--103},
+  year      = {2022},
+  doi       = {10.5220/0011548000003329},
+  abbr      = {IN4PL},
+  bibtex_show = {true},
+}
+
+@inproceedings{alfeo2022improving,
+  author    = {Alfeo, Antonio Luca and Cimino, Mario G. C. A. and Gagliardi, Guido},
+  title     = {Improving an Ensemble of Neural Networks via a Novel Multi-class Decomposition Schema},
+  booktitle = {Proceedings of the 14th International Joint Conference on Computational Intelligence (IJCCI)},
+  pages     = {389--395},
+  year      = {2022},
+  doi       = {10.5220/0011547900003332},
+  abbr      = {IJCCI},
+  bibtex_show = {true},
+}
+
+% ============================================================
+% CONFERENCE ABSTRACTS
+% (congress abstracts published in journal supplements / proceedings books;
+%  kept separate from full peer-reviewed papers on purpose)
+% ============================================================
+
+@misc{jimenez2024explainable,
+  author    = {Jim\'enez-Garc\'ia, Javier and Michiels, Julie and Gagliardi, Guido and Guti\'errez-Tobal, Gonzalo C. and Garc\'ia, Miriam and others},
+  title     = {An explainable artificial intelligence technique to interpret deep learning models aimed at detecting paediatric sleep apnoea from airflow and oximetry signals},
+  howpublished = {27th Congress of the European Sleep Research Society (ESRS), Seville, Spain. Published in Journal of Sleep Research, vol.~33, suppl.~S1},
+  year      = {2024},
+  abbr      = {ESRS},
+}
+
+@misc{jimenez2024caseib,
+  author    = {Jim\'enez Garc\'ia, Javier and Guti\'errez Tobal, Gonzalo C. and Garc\'ia Gada\~n\'on, Miriam and Michiels, Julie and Gagliardi, Guido and Gozal, David and De~Vos, Maarten and Hornero, Roberto},
+  title     = {Inteligencia artificial explicable basada en Shapley values para interpretar modelos de deep learning orientados a detectar la apnea del sue\~no pedi\'atrica usando flujo a\'ereo y oximetr\'ia},
+  howpublished = {CASEIB 2024. Libro de Actas del XLII Congreso Anual de la Sociedad Espa\~nola de Ingenier\'ia Biom\'edica, Sevilla. Editorial Universidad de Sevilla, pp.~605--608},
+  isbn      = {978-84-09-67332-2},
+  year      = {2024},
+  url       = {https://portaldelaciencia.uva.es/documentos/69c585c1265b310e56f3b00d},
+  abbr      = {CASEIB},
+}
+
+% ============================================================
+% PHD THESIS (excluded from /publications/ — shown under Education)
+% ============================================================
+
+@phdthesis{gagliardi2021thesis,
+  author    = {Gagliardi, Guido},
+  title     = {Explainable Artificial Intelligence: from Model-based to Knowledge-driven Understanding},
+  school    = {KU~Leuven \& University of Pisa},
+  year      = {2026},
+  abbr      = {PhD},
 }

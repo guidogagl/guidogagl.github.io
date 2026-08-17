@@ -1,189 +1,182 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Guido Gagliardi
+  label: Post-Doctoral Researcher — ESAT-STADIUS, KU Leuven
+  email: guido.gagliardi@kuleuven.be
+  location: Leuven, Belgium
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    Explainable AI for clinical neurophysiology. Dual PhD with honors (KU Leuven; Universities of
+    Florence, Siena and Pisa, 2026). FWO Strategic Basic Research fellow. Author of PhysioEx and
+    ProtoSleepNet. Italian nationality.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: guidogagl
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: KU Leuven — Arenberg Doctoral School, Faculty of Engineering Science
+        location: Leuven, Belgium
+        url: https://www.kuleuven.be/
+        area: Engineering Science — Explainable Artificial Intelligence
+        studyType: PhD, with honors
+        start_date: 2021-11
+        end_date: 2026-05
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: *Explainable Artificial Intelligence: from Model-based to Knowledge-driven Understanding*. Supervisor: Prof. Maarten De Vos."
+          - "Defended 27 May 2026 before a joint jury, as a dual degree with the Italian programme below."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Universities of Florence, Siena and Pisa — joint programme
+        location: Florence, Italy
+        area: Smart Computing
+        studyType: PhD, with honors
+        start_date: 2021-11
+        end_date: 2026-05
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Co-supervisor: Prof. Mario G. C. A. Cimino (University of Pisa)."
+
+      - institution: University of Pisa
+        location: Pisa, Italy
+        area: Artificial Intelligence and Big Data Engineering
+        studyType: M.Sc.
+        start_date: 2019-09
+        end_date: 2021-07
+        highlights:
+          - "Graduated 110/110 *cum laude*."
+          - "Thesis: *A novel multimodal feature learning architecture for explainable affective computing*."
+
+      - institution: University of Pisa
+        location: Pisa, Italy
+        area: Computer Engineering
+        studyType: B.Sc.
+        start_date: 2015-09
+        end_date: 2019-07
+        highlights:
+          - "Graduated 105/110."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: KU Leuven — ESAT, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics
+        position: Post-Doctoral Researcher
+        location: Leuven, Belgium
+        start_date: 2026-06
+        summary: Explainable deep learning for physiological signals, in the group of Prof. Maarten De Vos.
         highlights:
-          - Relativity
-          - Description 2.
+          - Foundation models for clinical EEG and semantic embeddings for neurophysiological signals.
+          - Prototype-based interpretability for sleep staging and sleep-related conditions.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
+      - company: Fraunhofer Heinrich Hertz Institute
+        position: Visiting Researcher
         location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        start_date: 2025-12
+        end_date: 2026-06
+        summary: Prof. Wojciech Samek's Artificial Intelligence department, funded by an FWO travel grant.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Attribution methods for time-frequency data; the Spectral Gradients line of work.
+
+      - company: KU Leuven — ESAT, STADIUS
+        position: Doctoral Researcher (FWO SBO Fellow)
+        location: Leuven, Belgium
+        start_date: 2021-11
+        end_date: 2026-05
+        summary: Clinical sleep profiling with UZ Leuven, combining deep learning with concept-based explainability.
+
+    Funding and grants:
+      - bullet: >
+          Approximately **€200,000** in competitive personal funding, plus compute allocations on
+          three national and European supercomputers.
+      - bullet: >
+          **FWO Strategic Basic Research Fellowship** (mandate 1SH4Z24N), Research Foundation
+          Flanders — approximately €131,000, 2023–. Personal four-year fellowship; success rate
+          below 20%.
+      - bullet: >
+          **FWO Travel Grant for a Long Research Stay Abroad** (mandate V458425N), Research
+          Foundation Flanders — €9,900, 2025. Funded the research stay at Fraunhofer HHI, Berlin.
+      - bullet: >
+          **Pegaso Scholarship**, Regione Toscana (Giovanisì) — €61,300, 2021–2023.
+      - bullet: >
+          **Compute allocations**: VSC (Flanders), LUMI (EuroHPC JU) and Leonardo/CINECA — all
+          competitively allocated.
+      - bullet: >
+          **Project participation**: EXPERIENCE (EU H2020, no. 101017727); FAIR Spoke 1
+          "Human-Centered AI" (PNRR PE00000013); FoReLab (MIUR Departments of Excellence,
+          University of Pisa); FWO S003524N, G0C9623N and G0D8321N.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Dual PhD with honors
+        awarder: KU Leuven; Universities of Florence, Siena and Pisa
+        date: 2026-05
+        summary: Awarded to fewer than 5% of candidates.
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: FWO Strategic Basic Research Fellowship
+        awarder: Research Foundation Flanders
+        date: 2023-01
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Pegaso Scholarship
+        awarder: Regione Toscana
+        date: 2021-11
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: M.Sc. cum laude, 110/110
+        awarder: University of Pisa
+        date: 2021-07
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Teaching:
+      - bullet: >
+          **Guest Lecturer** — *Explainable and Trustworthy Artificial Intelligence*, Ghent
+          University (UGain / VAIA professional course), 2026. Coordinated by Prof. Dr. Femke
+          De Backere. Contributed lectures on explainability and interpretability techniques.
+      - bullet: >
+          **Teaching Assistant** — *Biomedical Signal Processing*, KU Leuven, 2021–2026. M.Sc.
+          programmes in Biomedical Engineering and Electrical Engineering: exercise sessions,
+          student support and grading.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Supervision:
+      - bullet: >
+          **12 M.Sc. theses** supervised at the University of Pisa, 2022–2026 — 10 as principal
+          advisor (*relatore*), one as co-advisor, one as tutor, with Prof. M. G. C. A. Cimino and
+          Prof. A. L. Alfeo. Day-to-day supervision (problem definition, method, experiments and
+          writing) was mine; Cimino and Alfeo were the formal supervisors.
+      - bullet: >
+          Two students continued to doctoral study: **C. Daka** (University of Pisa) and
+          **I. Grillo** (KU Leuven).
+      - bullet: >
+          The full list, with deposited titles and formal roles, is on the
+          [research page](/research/#supervision-and-mentoring).
+
+    Academic service:
+      - bullet: "**Submission Chair**, IEEE ICAI-TEMS 2026, Pisa, Italy."
+      - bullet: >
+          **Reviewer** for AAAI 2026 and the *Journal of Ambient Intelligence and Humanized
+          Computing* (Springer).
+      - bullet: >
+          Member of the **Sleep Revolution** network (Horizon 2020, grant agreement 965417).
+
+    Collaborations:
+      - bullet: "**Fraunhofer HHI, Berlin** — Prof. W. Samek: attribution methods for time–frequency data."
+      - bullet: >
+          **Technion** and **Universidade Federal de Minas Gerais** — Prof. J. A. Behar and
+          Prof. A. L. P. Ribeiro: cross-cohort generalisation in physiological time series.
+      - bullet: "**University of Copenhagen** — Prof. B. R. Kornum: narcoleptic mouse models."
+      - bullet: >
+          **Aarhus University, Center for Ear-EEG** — J. Strøm: Alzheimer's disease and REM Sleep
+          Behaviour Disorder.
+      - bullet: "**University of Valladolid** — Dr. J. Jiménez-García: paediatric sleep apnoea."
+
+    Software:
+      - bullet: >
+          **[PhysioEx](/software/)** — PyTorch library for explainable modelling of physiological
+          signals; 12 clinical cohorts behind one interface. Published in *Physiological
+          Measurement* (2025); on PyPI.
+      - bullet: >
+          **[ProtoSleepNet](/software/)** — prototype-based interpretable sleep staging across 11
+          polysomnography datasets and 12,317 subjects, with a live explainability demo.
+      - bullet: >
+          **[Spectral Gradients](/software/)** — disentangled time–frequency attributions
+          (manuscript in preparation with Prof. W. Samek).
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
+      - name: Italian
+        summary: Native speaker
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        summary: C1
+      - name: German
+        summary: Beginner, currently learning
