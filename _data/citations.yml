@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-09-04'
 papers:
   cHr99doAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -18,7 +18,7 @@ papers:
     title: A multi-source domain fine-tuning framework for deep generalization performance in physiological time series analysis
     year: '2026'
   cHr99doAAAAJ:Tyk-4Ss8FVUC:
-    citations: 8
+    citations: 9
     title: 'Physioex: a new python library for explainable sleep staging through deep learning'
     year: '2025'
   cHr99doAAAAJ:UeHWp8X0CEIC:
@@ -54,11 +54,11 @@ papers:
     title: Concept-wise granular computing for explainable artificial intelligence
     year: '2023'
   cHr99doAAAAJ:roLk4NBRz8UC:
-    citations: 2
+    citations: 3
     title: 'NeuroAtlas: Benchmarking Foundation Models for Clinical EEG and Brain-Computer Interfaces'
     year: '2026'
   cHr99doAAAAJ:u-x6o8ySG0sC:
-    citations: 4
+    citations: 5
     title: "Recognizing bearings\u2019 degradation stage using multimodal autoencoder to learn features from different time series"
     year: '2024'
   cHr99doAAAAJ:u5HHmVD_uO8C:
@@ -66,6 +66,6 @@ papers:
     title: Fine-grained emotion recognition using brain-heart interplay measurements and explainable convolutional neural networks
     year: '2023'
   cHr99doAAAAJ:ufrVoPGSRksC:
-    citations: 3
+    citations: 4
     title: Model-driven validation of visual explanations for multimodal emotion recognition
     year: '2025'
