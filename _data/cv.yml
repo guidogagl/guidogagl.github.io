@@ -171,7 +171,8 @@ cv:
           polysomnography datasets and 12,317 subjects, with a live explainability demo.
       - bullet: >
           **[Spectral Gradients](/software/)** — disentangled time–frequency attributions
-          (manuscript in preparation with Prof. W. Samek).
+          (submitted to *Pattern Recognition*, with Prof. W. Samek); code and per-sample
+          results on Zenodo.
 
     Languages:
       - name: Italian

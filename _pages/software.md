@@ -52,7 +52,7 @@ prototype, and see the time–frequency evidence behind the match.
 
 ---
 
-## Spectral Gradients — *disentangled time–frequency attributions* <small>(manuscript in preparation)</small>
+## Spectral Gradients — *disentangled time–frequency attributions* <small>(submitted to Pattern Recognition)</small>
 
 {% include figure.liquid loading="lazy" path="assets/img/projects/spectralgradients.jpg" class="img-fluid rounded z-depth-1" %}
 
@@ -60,10 +60,15 @@ An attribution method that separates a network's evidence **in time** from its e
 frequency**, so that an explanation over a physiological signal can be read as "this rhythm, at this
 moment" rather than as an undifferentiated heatmap. It combines progressive band ablation in the
 frequency domain with path-integrated gradients, and is benchmarked against nine STFT-explainer
-configurations across synthetic, audio, arrhythmia and sleep data. Manuscript in preparation with
-Prof. W. Samek (Fraunhofer HHI).
+configurations across synthetic, audio, arrhythmia and sleep data. Submitted to *Pattern
+Recognition*, with Prof. W. Samek (Fraunhofer HHI).
 
-*Code to be released with the paper.*
+The benchmark code and the per-sample results behind every table of the paper are public; the
+method itself ships inside PhysioEx.
+
+[Preprint](/assets/pdf/papers/gagliardi2026spectral.pdf) ·
+[GitHub](https://github.com/guidogagl/spectralgradients) ·
+[Zenodo](https://doi.org/10.5281/zenodo.22964216)
 
 ---
 

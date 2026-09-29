@@ -69,7 +69,7 @@ clinical knowledge through retrieval.
 
 Extending prototype-based sleep analysis to narcoleptic mouse models with Prof. B. R. Kornum
 (University of Copenhagen), and to Alzheimer's disease and REM Sleep Behaviour Disorder with the
-Center for Ear-EEG (Aarhus University). Writing *Spectral Gradients*, on disentangled
-time–frequency attributions, with Prof. W. Samek.
+Center for Ear-EEG (Aarhus University). *Spectral Gradients*, on disentangled time–frequency
+attributions, is under review at *Pattern Recognition* with Prof. W. Samek.
 
 **I am looking for tenure-track and junior-professor positions in Europe starting 2027.**
