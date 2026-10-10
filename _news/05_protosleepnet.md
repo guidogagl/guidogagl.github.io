@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-**ProtoSleepNet** is [under review](/publications/) at *npj Digital Medicine* — the revised
+**ProtoSleepNet** is [under review](/publications/) at *npj Digital Medicine* — the
 manuscript is on the [publications page](/publications/), and there is a
 [live explainability demo](https://protosleepnet-demo.pages.dev).

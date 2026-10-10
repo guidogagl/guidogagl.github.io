@@ -47,7 +47,7 @@ prototype, and see the time–frequency evidence behind the match.
 [**Live demo**](https://protosleepnet-demo.pages.dev) ·
 [Docs](https://guidogagl.github.io/protosleepnet) ·
 [GitHub](https://github.com/guidogagl/protosleepnet) ·
-[Preprint (v2)](/assets/pdf/papers/gagliardi2026prototype-v2.pdf) ·
+[Preprint (v3)](/assets/pdf/papers/gagliardi2026prototype-v3.pdf) ·
 [Research Square (v1)](https://doi.org/10.21203/rs.3.rs-9169987/v1)
 
 ---
