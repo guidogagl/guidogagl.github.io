@@ -160,17 +160,6 @@ cv:
       - bullet: >
           Member of the **Sleep Revolution** network (Horizon 2020, grant agreement 965417).
 
-    Collaborations:
-      - bullet: "**Fraunhofer HHI, Berlin** — Prof. W. Samek: attribution methods for time–frequency data."
-      - bullet: >
-          **Technion** and **Universidade Federal de Minas Gerais** — Prof. J. A. Behar and
-          Prof. A. L. P. Ribeiro: cross-cohort generalisation in physiological time series.
-      - bullet: "**University of Copenhagen** — Prof. B. R. Kornum: narcoleptic mouse models."
-      - bullet: >
-          **Aarhus University, Center for Ear-EEG** — J. Strøm: Alzheimer's disease and REM Sleep
-          Behaviour Disorder.
-      - bullet: "**University of Valladolid** — Dr. J. Jiménez-García: paediatric sleep apnoea."
-
     Software:
       - bullet: >
           **[PhysioEx](/software/)** — PyTorch library for explainable modelling of physiological

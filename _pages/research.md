@@ -148,17 +148,6 @@ on three national and European supercomputers.
 
 ---
 
-## Collaborations
-
-This work is done with Prof. W. Samek (Fraunhofer HHI Berlin) on attribution methods,
-Prof. J. A. Behar (Technion) and Prof. A. L. P. Ribeiro (Universidade Federal de Minas Gerais) on
-cross-cohort generalisation in physiological time series, Prof. B. R. Kornum (University of
-Copenhagen) on narcolepsy models, Dr. J. Jiménez-García (University of Valladolid) on paediatric
-sleep apnoea, and J. Strøm (Center for Ear-EEG, Aarhus University) on Alzheimer's disease and REM
-Sleep Behaviour Disorder.
-
----
-
 <div class="publications" markdown="1">
 {% bibliography --cited %}
 </div>
