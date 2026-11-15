@@ -1,12 +1,12 @@
 cv:
   name: Guido Gagliardi
-  label: Post-Doctoral Researcher — ESAT-STADIUS, KU Leuven
-  email: guido.gagliardi@kuleuven.be
-  location: Leuven, Belgium
+  label: Young Research Group Leader — KFI MAI, Johannes Kepler University Linz
+  email: guido.gagliardi@jku.at
+  location: Linz, Austria
   image: ""
   summary: >
     Explainable AI for clinical neurophysiology. Dual PhD with honors (KU Leuven; Universities of
-    Florence, Siena and Pisa, 2026). FWO Strategic Basic Research fellow. Author of PhysioEx and
+    Florence, Siena and Pisa, 2026). Former FWO Strategic Basic Research fellow (2023–2026). Author of PhysioEx and
     ProtoSleepNet. Italian nationality.
 
   social_networks:
@@ -55,10 +55,20 @@ cv:
           - "Graduated 105/110."
 
     Experience:
+      - company: Johannes Kepler University Linz — Clinical Research Institute for Medical Artificial Intelligence (KFI MAI), Faculty of Medicine
+        position: Young Research Group Leader, Medical AI
+        location: Linz, Austria
+        start_date: 2026-11
+        summary: Leading the Young Research Group *Medical AI*, selected in a competitive call of the Faculty of Medicine.
+        highlights:
+          - Building the group, with two doctoral researchers, and teaching special courses and seminars.
+          - Affiliated with ESAT-STADIUS, KU Leuven.
+
       - company: KU Leuven — ESAT, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics
         position: Post-Doctoral Researcher
         location: Leuven, Belgium
         start_date: 2026-06
+        end_date: 2026-10
         summary: Explainable deep learning for physiological signals, in the group of Prof. Maarten De Vos.
         highlights:
           - Foundation models for clinical EEG and semantic embeddings for neurophysiological signals.
@@ -86,7 +96,7 @@ cv:
           three national and European supercomputers.
       - bullet: >
           **FWO Strategic Basic Research Fellowship** (mandate 1SH4Z24N), Research Foundation
-          Flanders — approximately €131,000, 2023–. Personal four-year fellowship; success rate
+          Flanders — approximately €131,000, 2023–2026. Personal four-year fellowship; success rate
           below 20%.
       - bullet: >
           **FWO Travel Grant for a Long Research Stay Abroad** (mandate V458425N), Research
